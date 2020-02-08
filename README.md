@@ -1,2 +1,2 @@
 # Black_jack_game
-This is One kind of Card game.
+This is one kind of Card game.
