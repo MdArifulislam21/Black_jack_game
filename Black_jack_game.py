@@ -1,8 +1,8 @@
 
 import  random
-# not everything is fine.
 
-# set the name of all the cards in suits
+
+# set the name of all the cards in suit
 suits =  ('Hearts', 'Diamonds', "Spades", 'Clubs')
 
 #set the rank 
