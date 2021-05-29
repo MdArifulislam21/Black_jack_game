@@ -1,6 +1,6 @@
 
 import  random
-
+#hi this is adding man.
 
 # set the name of all the cards in suits
 suits =  ('Hearts', 'Diamonds', "Spades", 'Clubs')
