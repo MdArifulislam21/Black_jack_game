@@ -1,7 +1,7 @@
 
 import  random
 
-# it would be fun and joy
+
 # set the name of all the cards in suit
 suits =  ('Hearts', 'Diamonds', "Spades", 'Clubs')
 
